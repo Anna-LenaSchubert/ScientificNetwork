@@ -1,26 +1,25 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Anna-Lena Schubert
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Head of junior research group
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Heidelberg University
+  url: https://www.psychologie.uni-heidelberg.de/ae/diff/diff/people-schubert.html
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Her research interests include the measurement and manipulation of neurocognitive processes related to general intelligence. For this purpose, she has been working on the psychometrics of electrophysiological data and mathematical models of cognition to overcome measurement problems with the goal to link theoretically guided measures of cognitive processes with individual differences in cognitive abilities. Her work integrates psychometric approaches with cognitive psychology, electrophysiology, and individual differences research.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Cognitive abilities
+- Neurocognitve psychpmetrics
 
 # Education to show in About widget
 education:
@@ -45,16 +44,10 @@ social:
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/AnnaLSchubert
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://scholar.google.de/citations?user=PpigWeMAAAAJ&hl=de
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -70,8 +63,6 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Anna-Lena Schubert works as the head of a junior research group at the Section of Personality Research at Heidelberg University in Germany. Her research interests include the measurement and manipulation of neurocognitive processes related to general intelligence. For this purpose, she has been working on the psychometrics of electrophysiological data and mathematical models of cognition to overcome measurement problems with the goal to link theoretically guided measures of cognitive processes with individual differences in cognitive abilities. Her work integrates psychometric approaches with cognitive psychology, electrophysiology, and individual differences research.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
