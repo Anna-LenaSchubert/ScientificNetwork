@@ -1,20 +1,18 @@
 ---
-# A Demo section created with the Blank widget.
-# Any elements can be added in the body: https://wowchemy.com/docs/writing-markdown-latex/
-# Add more sections by duplicating this file and customizing to your requirements.
-
-widget: hero  # See https://wowchemy.com/docs/page-builder/
-headless: true  # This file represents a page section.
-weight: 10  # Order that this section will appear.
-title: "Neurocognitive Psychometrics"
-subtitle: "Scientific Network funded by the DFG"
-hero_media: logo.png
-design:
-  # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '1'
 advanced:
-  css_style:
-  css_class:
+  ? css_style
+  ? css_class
+widget: hero
+widget_id: about
+headless: true
+weight: 10
+title: Neurocognitive Psychometrics
+subtitle: Scientific Network funded by the DFG
+active: true
+design:
+  columns: "1"
+  background:
+    image: /assets/media/logo.png
+hero_media: logo.png
 ---
-
-The aim of the  Scientific Network is to develop reliable and valid measurements of person parameters in elementary cognitive processes such as working memory capacity and executive functions
+The aim of the  Scientific Network is to develop reliable and valid measurements of person parameters in elementary cognitive processes such as working memory capacity and executive functions.
