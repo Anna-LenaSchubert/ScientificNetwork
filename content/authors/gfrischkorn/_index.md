@@ -1,6 +1,6 @@
 ---
 role: Postdoctoral researcher
-avatar_filename: gidon.jpg
+avatar_filename: avatar.jpg
 bio: His research is concerned with individual differences in cognitive
   abilities and the related cognitive processes such as working memory or
   attention.
