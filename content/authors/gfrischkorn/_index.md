@@ -1,6 +1,6 @@
 ---
-role: Postdoctoral researchers
-bio: His My research is concerned with individual differences in cognitive abilities and the related cognitive processes such as working memory or attention.  
+role: Postdoctoral researcher
+bio: His research is concerned with individual differences in cognitive abilities and the related cognitive processes such as working memory or attention.  
 interests:
   - Intelligence, Working Memory, Processing Speed
   - Psychometrics
