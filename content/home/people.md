@@ -1,6 +1,11 @@
 ---
 widget: people
+# Activate this widget? true/false
+active: true
 headless: true
+
+title: Members
+
 content:
   user_groups:
     - members
