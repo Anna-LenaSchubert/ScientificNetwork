@@ -10,7 +10,5 @@ main:
   - name: People
     url: '/#people'
     weight: 20
-  - name: Publications
-    url: '/#featured'
-    weight: 30
+
 
