@@ -39,6 +39,8 @@ superuser: true
 highlight_name: false
 title: Anna-Lena Schubert
 email: ""
+user_groups: ["members", "Heidelberg"]
+
 ---
 
 Anna-Lena Schubert works as the head of a junior research group at the Section of Personality Research at Heidelberg University in Germany. Her research interests include the measurement and manipulation of neurocognitive processes related to general intelligence. For this purpose, she has been working on the psychometrics of electrophysiological data and mathematical models of cognition to overcome measurement problems with the goal to link theoretically guided measures of cognitive processes with individual differences in cognitive abilities. Her work integrates psychometric approaches with cognitive psychology, electrophysiology, and individual differences research.
