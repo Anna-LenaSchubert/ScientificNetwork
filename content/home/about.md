@@ -17,4 +17,4 @@ design:
 ---
 The aim of the  Scientific Network is to develop reliable and valid measurements of person parameters in elementary cognitive processes such as working memory capacity and executive functions. 
 
-{{< figure src="logo.png" caption="Logo" >}}
+![Neurocognitive Psychometrics](/assets/media/logo.png "Logo")
