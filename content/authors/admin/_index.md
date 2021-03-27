@@ -1,6 +1,6 @@
 ---
 role: Head of junior research group
-avatar_filename: Anna-Lena-Schubert0027-web2048.jpg
+avatar_filename: avatar.jpg
 bio: Her research interests include the measurement and manipulation of
   neurocognitive processes related to general intelligence. For this purpose,
   she has been working on the psychometrics of electrophysiological data and
