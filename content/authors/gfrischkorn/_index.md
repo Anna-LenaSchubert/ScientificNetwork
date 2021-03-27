@@ -22,5 +22,5 @@ superuser: false
 highlight_name: false
 title: Gidon T. Frischkorn
 email: ""
-user_groups: ["members", "UZH"]
+user_groups: ["members", "University of Zurich"]
 ---
