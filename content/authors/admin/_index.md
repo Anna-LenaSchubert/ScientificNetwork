@@ -15,7 +15,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: anna-lena.schubert@psychologie.uni-heidelberg.de
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/AnnaLSchubert
@@ -25,17 +25,6 @@ social:
 organizations:
   - name: Heidelberg University
     url: https://www.psychologie.uni-heidelberg.de/ae/diff/diff/people-schubert.html
-education:
-  courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
 superuser: true
 user_groups:
   - members
