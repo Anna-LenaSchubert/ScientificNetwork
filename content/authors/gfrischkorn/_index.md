@@ -11,7 +11,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: gidon.frischkorn@psychologie.uzh.ch
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GidonFrischkorn
@@ -27,5 +27,5 @@ user_groups:
   - University of Zurich
 highlight_name: false
 title: Gidon T. Frischkorn
-email: ""
+email: "gidon.frischkorn@psychologie.uzh.ch"
 ---
