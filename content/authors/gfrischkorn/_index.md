@@ -21,7 +21,7 @@ social:
 organizations:
   - name: University of Zurich
     url: http://www.psychology.uzh.ch/en/areas/nec/allgpsy/Team/Frischkorn.html
-superuser: false
+superuser: true
 user_groups:
   - members
   - University of Zurich
