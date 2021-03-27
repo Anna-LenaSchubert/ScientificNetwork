@@ -39,7 +39,7 @@ superuser: true
 highlight_name: false
 title: Anna-Lena Schubert
 email: "anna-lena.schubert@psychologie.uni-heidelberg.de"
-user_groups: ["members", "Heidelberg"]
+user_groups: ["members", "Heidelberg University"]
 
 ---
 
